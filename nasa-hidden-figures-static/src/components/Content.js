@@ -30,22 +30,22 @@ export default function Content() {
       </section>
 
       <section className="images">
-        <h2>Image Placeholders</h2>
+        <h2>History Makers</h2>
 
         <div className="imgGrid">
           <figure className="card">
             <img src="/images/KJOHNSON.jpg" alt="Katherine Johnson at work" />
-            <figcaption>Placeholder 1: Katherine Johnson</figcaption>
+            <figcaption>Katherine Johnson</figcaption>
           </figure>
 
           <figure className="card">
             <img src="/images/MJACKSON.jpg" alt="Mary W. Jackson" />
-            <figcaption>Placeholder 2: Mary W. Jackson</figcaption>
+            <figcaption>Mary W. Jackson</figcaption>
           </figure>
 
           <figure className="card">
             <img src="/images/DVAUGHN.jpg" alt="Dorothy Vaughan or Christine Darden" />
-            <figcaption>Placeholder 3: Dorothy Vaughan / Christine Darden</figcaption>
+            <figcaption>Dorothy Vaughan / Christine Darden</figcaption>
           </figure>
         </div>
       </section>
